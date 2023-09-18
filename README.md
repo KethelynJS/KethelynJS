@@ -5,15 +5,8 @@
 - 💻 Estudante de Desenvolvimento Web e Design UI/UX
 - 🚀 Apaixonada por Programação e Desenvolvimento de Jogos
 
-## Habilidades
-
-- 🎮 Desenvolvimento de Jogos
-- 🌐 Desenvolvimento Web
-- 🎨 Design UI/UX
-
 ## Objetivos
 
-- 🌟 Aprender Python, JavaScript e C++
 - 👩‍💼 Explorar oportunidades de estágio na área de desenvolvimento de jogos e além
 
 ## Aprendizado Contínuo
