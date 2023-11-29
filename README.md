@@ -7,7 +7,7 @@
 
 ## Objetivos
 
-- 👩‍💼 Explorar oportunidades de estágio na área de desenvolvimento de jogos e além
+- 👩‍💼 Explorar oportunidades de estágio na área de desenvolvimento e além.
 
 ## Aprendizado Contínuo
 
