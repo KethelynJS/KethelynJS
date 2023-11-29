@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, Eu sou a Kethelyn. Bem-vindo ao meu perfil do GitHub!</h1>
 <h3> Sobre Mim </h3>
 
-- 👩‍🎓 Estudante de Game Design
+- 👩‍🎓 Estudante de Engenharia de Software
 - 💻 Estudante de Desenvolvimento Web e Design UI/UX
-- 🚀 Apaixonada por Programação e Desenvolvimento de Jogos
+- 🚀 Apaixonada por Programação e Desenvolvimento de softwares
 
 ## Objetivos
 
@@ -12,7 +12,7 @@
 ## Aprendizado Contínuo
 
 - 📚 Atualmente, estou estudando C++, python e javascript
-- 🎓 Estou concluindo os cursos HTML, CSS e Design UI/UX na coderhouse
+- 🎓 Já conclui cursos de HTML, CSS, JS e Design UI/UX na coderhouse
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
