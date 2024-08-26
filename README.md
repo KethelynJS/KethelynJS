@@ -37,7 +37,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.totvs.com/solucoes/bpm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/totvs/totvs-original.svg" alt="totvs" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/totvs/totvs-original.svg" alt="TOTVS" width="40" height="40"/>
   </a>
 </p>
 
