@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Eu sou a Kethelyn. Bem-vindo ao meu perfil do GitHub!</h1>
+<h1 align="center">Hi 👋, Bem-vindo ao meu perfil do GitHub!</h1>
 <h3> Sobre Mim </h3>
 
 - 👩‍🎓 Estudante de Engenharia de Software
