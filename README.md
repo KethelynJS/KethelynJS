@@ -2,16 +2,16 @@
 <h3> Sobre Mim </h3>
 
 - 👩‍🎓 Estudante de Engenharia de Software
-- 💻 Estudante de Data science
-- 🚀 Apaixonada por Programação e Desenvolvimento de softwares
+- 💻 Estudante de Web Design
+- 🚀 Apaixonada por Programação e Design
 
 ## Objetivos
 
-- 👩‍💼 Explorar oportunidades na área de desenvolvimento e além.
+- 👩‍💼 Explorar oportunidades na área.
 
 ## Aprendizado Contínuo
 
-- 📚 Atualmente, estou estudando de forma avançada, python e javascript.
+- 📚 Atualmente, estou estudando de forma avançada, design de UI/UX e programação web.
 - 🎓 Já conclui cursos de HTML, CSS, JS, Python e Design UI/UX na coderhouse.
 - Conclui Cursos da TOTVS Fluig e trabalhei em criação de forms, workflows com JS.
 
